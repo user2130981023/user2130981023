@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Mateo
+### Hi there 👋
 #### I am a frontend web developer
 I have been coding for around 2 years now and i am currently learning:
 Kernal, Windows API, and dll injections.
